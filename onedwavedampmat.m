@@ -6,6 +6,7 @@ close all
 %parameters:
 T = 1;          %time duration
 Fs = 44100;     %sample rate in Hz
+f0 = 10000;     %fundamental frequency 
 k = 1/Fs;       %number of time steps
 Ns = floor(T/k);%number of samples
 L = 1;          %length of string in metres
