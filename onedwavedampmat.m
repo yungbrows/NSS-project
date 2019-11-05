@@ -1,5 +1,5 @@
 %1D wave equation simulation with damping 
-%nice version 
+%nice looking version using matrices
 clear all
 close all
 
